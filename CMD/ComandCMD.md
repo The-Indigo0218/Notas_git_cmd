@@ -6,3 +6,4 @@
 4. code . // para entrar a vsc en la carpeta donde estamos ubicados
 5. code + (el nombre del archivo.extencion) // para crear archivos y abrirlos en vsc
 6. ni // para crear un archivo en una carpeta pero no lo abre en vsc
+7. del //para eliminar
