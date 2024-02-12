@@ -18,4 +18,3 @@
 15. git reflog // el historia completo de las acciones en git, incluso despues del git reset --hard
 16. git reset --hard <referente> // Mueve la rama a la referencia elegida, si el main esta en la id 1 pero quieres llevarla al id 2, usas git reset --hard 2
 17. git checkout <id del commit> //tambien se usa para mover la cabeza, por ejemplo si luego de usar el reser hard quieres volver a un commit eliminado lo usas
-

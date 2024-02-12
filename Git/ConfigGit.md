@@ -7,3 +7,6 @@
 5. git config --global alias.<Alias> "Comando" //Para crear un alias a un comando
 6. crea un .gitignore para los archivos que no quieras guardar en git
 
+
+<----------   En caso de que haya un conflicto entre los repo, usa  --------------->
+git remote set-url origin git@github.com-"Nombre usuario":"Nombre Usuario"/"Nombre Repo".git
