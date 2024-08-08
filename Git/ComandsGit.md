@@ -13,6 +13,7 @@
 10. git checkout <id del commit> //Regresa los cambios hasta el commit elegido
 11. git reset // para deshacer los cambios que no se guardaron
 12. git reset <Name file> // para los cambios de ese archivo en especifico
+18. git reset --hard // descarta los cambios y vuelve al ultimo commit
 13. git reset --hard <referente> // deshace el último commit y descarta todos los cambios realizados en el último commit.
 14. git diff // muestra los cambios entre el ultimo commit y ahora
 15. git reflog // el historia completo de las acciones en git, incluso despues del git reset --hard
