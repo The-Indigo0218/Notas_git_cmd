@@ -19,3 +19,10 @@
 15. git reflog // el historia completo de las acciones en git, incluso despues del git reset --hard
 16. git reset --hard <referente> // Mueve la rama a la referencia elegida, si el main esta en la id 1 pero quieres llevarla al id 2, usas git reset --hard 2
 17. git checkout <id del commit> //tambien se usa para mover la cabeza, por ejemplo si luego de usar el reser hard quieres volver a un commit eliminado lo usas
+18. git remote -v // para ver los repo remotos
+19. git remote remove nombre_remoto //Eliminar repo remoto
+20. git remote show nombre_remoto //Para ver información detallada de un remoto específico:
+21. git remote set-url nombre_remoto nueva_URL //Para cambiar la URL de un remoto existente:
+
+
+
