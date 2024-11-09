@@ -22,7 +22,12 @@
 18. git remote -v // para ver los repo remotos
 19. git remote remove nombre_remoto //Eliminar repo remoto
 20. git remote show nombre_remoto //Para ver información detallada de un remoto específico:
-21. git remote set-url nombre_remoto nueva_URL //Para cambiar la URL de un remoto existente:
+21. git remote set-url nombre_remoto nueva_URL //Para cambiar la URL de un remoto existente
+22. git checkout main // si estas en el head, mueve el main al head (En caso de que tengas cambios en el head usa el comando 23.)
+23.  git branch <Nombre rama nueva> <commit> // ejemplo  git branch back  262b6df deja los cambios en la rama recien creado luego solo es hacer un merge
+
+
+
 
 
 
