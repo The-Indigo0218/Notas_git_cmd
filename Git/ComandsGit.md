@@ -25,6 +25,7 @@
 21. git remote set-url nombre_remoto nueva_URL //Para cambiar la URL de un remoto existente
 22. git checkout main // si estas en el head, mueve el main al head (En caso de que tengas cambios en el head usa el comando 23.)
 23.  git branch <Nombre rama nueva> <commit> // ejemplo  git branch back  262b6df deja los cambios en la rama recien creado luego solo es hacer un merge
+24.  git checkout <puntoReferencia> <archivo> // git checkout main mi_archivo.txt Si has modificado el archivo mi_archivo.txt y quieres volver a la versión que estaba en la rama main
 
 
 
