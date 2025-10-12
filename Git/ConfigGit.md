@@ -9,6 +9,6 @@
 
 
 <----------   En caso de que haya un conflicto entre los repo, usa  --------------->
-git remote set-url origin git@github-"Nombre del host ":"Nombre user"/"Nombre repo".git  Example : git remote set-url origin git@github-estudio:GoPaMiguel/proyectoaulaPoo.git
+git remote set-url origin git@github-"Nombre del host ":"Nombre user"/"Nombre repo".git  Example : git remote set-url origin git@github-udec:MiguelDevUDEC/Example.git
 
 
